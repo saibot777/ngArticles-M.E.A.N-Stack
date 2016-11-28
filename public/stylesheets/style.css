@@ -12,3 +12,13 @@ footer a:hover {
   color: #008B8B;
   text-decoration: none;
 }
+.heading {
+  background:#666;
+  color:#fff;
+  padding: 5px;
+}
+.article {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
