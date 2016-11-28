@@ -4,6 +4,17 @@ footer {
   height: 40px;
   padding-top: 20px;
   text-align: center;
+  margin-top: 30px;
+}
+.adding {
+  background: #1E90FF;
+  padding: 6px 16px 6px 16px;
+}
+.adding h4 {
+  color: #fff;
+}
+.adding:hover {
+  background: #337ab7;
 }
 footer a {
   color: #00FFFF;
